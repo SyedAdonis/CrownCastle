@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Crown Castle UI Test Suite">
+    <test name="Test2">
+        <classes>
+            <class name="UI.PlayCheckers" />
+        </classes>
+    </test>
+</suite>

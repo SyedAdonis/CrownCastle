@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Crown Castle Test Suite">
+    <test name="API Test">
+        <classes>
+            <class name="API.PlayBlackJack" />
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="UI.PlayCheckers" />
+        </classes>
+    </test>
+</suite>
